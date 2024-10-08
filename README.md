@@ -1,4 +1,4 @@
-# Project Name
+# Odin-Recipes
 
 > One paragraph statement about the project.
 
